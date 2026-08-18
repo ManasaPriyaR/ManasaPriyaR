@@ -81,16 +81,6 @@
 | 🤖 **Smart Attendance System** | Real-time facial-recognition attendance system using facial embeddings and similarity search. | Python · ArcFace · Qdrant |
 | 🥽 **CalmSpace VR** | Browser-based VR exposure-therapy platform with AI recommendations, modular exposure building, and physiological sensor integration. | Unity · AI · Meta Quest 3 · Polar H10 · LSL |
 
-## 📚 Learning & Practice
-
-| Repository | What I'm Working On | Status |
-|---|---|---|
-| 🐍 **[PYTHON--CODES](https://github.com/ManasaPriyaR/PYTHON--CODES)** 🔒 | Python programming practice, including fundamentals and strings. | Active · Private |
-| ☕ **[java-codes](https://github.com/ManasaPriyaR/java-codes)** | Java fundamentals, operators, type casting, classes & objects, method overloading, and polymorphism. | Active · Public |
-| 📘 **[ENG23DS0081](https://github.com/ManasaPriyaR/ENG23DS0081)** | Academic programming and coursework repository. | Academic |
-
-> 🔒 **Private repository:** `PYTHON--CODES` is intentionally private. Its activity is part of my ongoing learning journey, while its source remains unavailable to the public.
-
 ---
 
 ## 📜 Certifications
@@ -99,21 +89,6 @@
 - 🟩 **SQL — Basic, Intermediate & Advanced — HackerRank**
 - 🟠 **Oracle Cloud Infrastructure 2025 Data Science Professional**
 - 🔵 **Machine Learning, Deep Learning, Statistics, Image Processing & Computer Vision — MATLAB**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManasaPriyaR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasaPriyaR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ManasaPriyaR&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
