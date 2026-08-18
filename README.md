@@ -80,10 +80,16 @@
 |---|---|---|
 | 🤖 **Smart Attendance System** | Real-time facial-recognition attendance system using facial embeddings and similarity search. | Python · ArcFace · Qdrant |
 | 🥽 **CalmSpace VR** | Browser-based VR exposure-therapy platform with AI recommendations, modular exposure building, and physiological sensor integration. | Unity · AI · Meta Quest 3 · Polar H10 · LSL |
-| 🐍 **PYTHON--CODES** 🔒 | My private Python practice repository containing my ongoing programming work and learning experiments. | Python |
-| ☕ **ENG23DS0081** | Academic programming and computer-science work maintained as part of my development journey. | Java · Programming |
 
-> 🔒 **Private repository note:** PYTHON--CODES is intentionally private, so recruiters will only be able to see it if I grant them access.
+## 📚 Learning & Practice
+
+| Repository | What I'm Working On | Status |
+|---|---|---|
+| 🐍 **[PYTHON--CODES](https://github.com/ManasaPriyaR/PYTHON--CODES)** 🔒 | Python programming practice, including fundamentals and strings. | Active · Private |
+| ☕ **[java-codes](https://github.com/ManasaPriyaR/java-codes)** | Java fundamentals, operators, type casting, classes & objects, method overloading, and polymorphism. | Active · Public |
+| 📘 **[ENG23DS0081](https://github.com/ManasaPriyaR/ENG23DS0081)** | Academic programming and coursework repository. | Academic |
+
+> 🔒 **Private repository:** `PYTHON--CODES` is intentionally private. Its activity is part of my ongoing learning journey, while its source remains unavailable to the public.
 
 ---
 
